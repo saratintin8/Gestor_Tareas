@@ -65,7 +65,7 @@ export default function InputTask(props) {
         //eliminar el mensaje previo:q
         setError(false);
         setErrorCategory(false);
-        //probando commit
+
         //asignar un ID
         task.idTask = uuidv4();
 
